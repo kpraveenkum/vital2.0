@@ -1,0 +1,4 @@
+forecast_start,horizon_hours,status
+2026-10-15 00:00:00,24,completed
+2026-10-15 00:00:00,48,completed
+2026-10-15 00:00:00,72,completed
