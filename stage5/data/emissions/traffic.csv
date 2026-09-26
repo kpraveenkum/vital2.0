@@ -1,0 +1,5 @@
+latitude,longitude,pollutant,emission,unit
+28.61,77.21,PM25,100,kg/day
+28.62,77.24,PM10,180,kg/day
+28.59,77.18,NOx,500,kg/day
+28.65,77.25,CO,1000,kg/day

@@ -1,0 +1,4 @@
+latitude,longitude,pollutant,emission,unit,fire_id
+29.0,76.9,PM25,300,kg/day,TEST_001
+29.05,77.0,PM10,500,kg/day,TEST_002
+28.9,77.1,CO,800,kg/day,TEST_003

@@ -1,0 +1,4 @@
+latitude,longitude,pollutant,emission,unit,facility
+28.5,77.3,PM25,200,kg/day,Industry_A
+28.55,77.35,PM10,400,kg/day,Industry_B
+28.52,77.28,NOx,600,kg/day,Industry_C

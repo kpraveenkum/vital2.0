@@ -1,0 +1,6 @@
+latitude,longitude,acq_date,acq_time,frp,confidence,satellite
+29.12,76.82,2026-10-15,1030,35.4,high,TEST
+29.05,76.95,2026-10-15,1040,62.1,nominal,TEST
+28.91,77.1,2026-10-15,1050,18.5,high,TEST
+29.25,76.7,2026-10-15,1110,48.2,high,TEST
+29.0,76.6,2026-10-15,1130,25.7,nominal,TEST

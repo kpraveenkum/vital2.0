@@ -1,0 +1,11 @@
+latitude,longitude,pollutant,emission,unit,emission_kg_s,source_type,facility,fire_id
+28.61,77.21,PM25,100,kg/day,0.0011574074074074073,traffic,,
+28.62,77.24,PM10,180,kg/day,0.0020833333333333333,traffic,,
+28.59,77.18,NOx,500,kg/day,0.005787037037037037,traffic,,
+28.65,77.25,CO,1000,kg/day,0.011574074074074073,traffic,,
+28.5,77.3,PM25,200,kg/day,0.0023148148148148147,industry,Industry_A,
+28.55,77.35,PM10,400,kg/day,0.004629629629629629,industry,Industry_B,
+28.52,77.28,NOx,600,kg/day,0.006944444444444444,industry,Industry_C,
+29.0,76.9,PM25,300,kg/day,0.003472222222222222,biomass_burning,,TEST_001
+29.05,77.0,PM10,500,kg/day,0.005787037037037037,biomass_burning,,TEST_002
+28.9,77.1,CO,800,kg/day,0.009259259259259259,biomass_burning,,TEST_003
